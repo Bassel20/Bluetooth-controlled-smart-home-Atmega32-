@@ -1,4 +1,4 @@
-# AVR-Bluetooth-controlled-smart-home-Atmega32-
+# Bluetooth-controlled-smart-home-Atmega32
 Simple Mobile controlled smart home via Bluetooth Implemented via Atmega32 microcontroller.  
 Smart home includes a login system that takes 10 usernames and 1 password for each username.  
 After successful login, the door lock opens and you can control the lights, fan and siren.  
